@@ -44,7 +44,7 @@ Geschwindigkeit der CO2-Minderung zu den Pariser Zielen stehen.
 
 Wir haben die Pariser Ziele für jede einzelne Kommune wie folgt runtergebrochen:
 Zunächst haben wir das Budget pro BürgerIn in Gesamtdeutschland ausgerechnet
-(ca. 0,088 tausend Tonnen CO2 pro Kopf). Diese Zahl haben wir dann mit
+(ca. 88 Tonnen CO2 pro Kopf). Diese Zahl haben wir dann mit
 der Anzahl BürgerInnen in der entsprechenden Kommune multipliziert.
 Für Münster macht das ca. 25 405 tausend Tonnen pro MünsteranerIn.
 Um eine Vergleichbarkeit mit den Daten in der Grafik zu erreichen, haben
